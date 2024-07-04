@@ -1,4 +1,3 @@
-readme_content = """
 # Project Title: Retinal OCT Image Classification
 
 **Description:**
@@ -25,4 +24,3 @@ This project involves the classification of retinal optical coherence tomography
 
 **Results:**
 The project successfully classifies retinal OCT images into the specified categories with high accuracy.
-"""
